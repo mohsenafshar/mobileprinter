@@ -1,0 +1,4 @@
+#Mon Jan 29 12:33:57 IRST 2018
+base.0=C\:\\Users\\Dell\\Desktop\\Android Studio p\\btphototransfer-sample-master1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
